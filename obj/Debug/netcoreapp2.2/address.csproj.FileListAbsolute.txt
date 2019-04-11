@@ -1,0 +1,11 @@
+C:\workspace\csharp\exercises\address\obj\Debug\netcoreapp2.2\address.csprojAssemblyReference.cache
+C:\workspace\csharp\exercises\address\obj\Debug\netcoreapp2.2\address.csproj.CoreCompileInputs.cache
+C:\workspace\csharp\exercises\address\obj\Debug\netcoreapp2.2\address.AssemblyInfoInputs.cache
+C:\workspace\csharp\exercises\address\obj\Debug\netcoreapp2.2\address.AssemblyInfo.cs
+C:\workspace\csharp\exercises\address\bin\Debug\netcoreapp2.2\address.deps.json
+C:\workspace\csharp\exercises\address\bin\Debug\netcoreapp2.2\address.runtimeconfig.json
+C:\workspace\csharp\exercises\address\bin\Debug\netcoreapp2.2\address.runtimeconfig.dev.json
+C:\workspace\csharp\exercises\address\bin\Debug\netcoreapp2.2\address.dll
+C:\workspace\csharp\exercises\address\bin\Debug\netcoreapp2.2\address.pdb
+C:\workspace\csharp\exercises\address\obj\Debug\netcoreapp2.2\address.dll
+C:\workspace\csharp\exercises\address\obj\Debug\netcoreapp2.2\address.pdb
