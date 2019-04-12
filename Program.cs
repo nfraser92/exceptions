@@ -70,9 +70,12 @@ namespace address
                 Console.WriteLine($"Name: {contact.FullName}");
                 Console.WriteLine($"Email: {contact.Email}");
                 Console.WriteLine($"Address: {contact.Address}");
+                Console.WriteLine("----------------------------");
             } catch (KeyNotFoundException ex)
             {
+                Console.WriteLine("*******************************");
                 Console.WriteLine($"We could not find {ex.Message}");
+                Console.WriteLine("*******************************");
 
             }
         }
